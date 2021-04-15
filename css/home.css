@@ -19,6 +19,10 @@ body {
     min-height: 100vh;
 }
 
+#edlogo {
+    margin-top: 1em;
+}
+
 #main-nav {
     padding-top: 1em;
     padding-bottom: 1em;
@@ -150,12 +154,12 @@ p {
 
 #title-text {
     font-size: 48px;
-    margin: 35vh 0 0 0;
+    margin: 20vh 0 0 0;
     line-height: 15px;
     word-spacing: -350px;
     padding-left: 6px;
     display: block;
-    padding-top: 18px;
+    padding-top: 8px;
 }
 
 #title-outline {
@@ -583,13 +587,13 @@ color: rgba(252, 3, 244, 0.8);
     }
     #title-text {
         font-size: 48px;
-        margin: 30vh 0 0 0;
+        margin: 15vh 0 0 0;
         line-height: 15px;
         word-spacing: -350px;
         padding-left: 10px;
         display: block;
         /* padding-top: 18px; */
-        padding-top: 44px;
+        padding-top: 24px;
     }
     button {
         display: flex;
